@@ -1,7 +1,8 @@
-# task_flutter
+# Screenshot
 
-A new Flutter project.
-![alt text](https://github.com/AhmadShloun/TaskFlutter/blob/main/screenshot/image.jpg)?raw=true)
+Task Flutter project.
+
+![alt text](https://github.com/AhmadShloun/TaskFlutter/blob/main/screenshot/image.jpg))
 ## Getting Started
 
 This project is a starting point for a Flutter application.
