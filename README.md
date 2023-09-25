@@ -1,7 +1,7 @@
 # task_flutter
 
 A new Flutter project.
-![alt text](https://github.com/AhmadShloun/TaskFlutter/blob/main/screenshot/create%20post.jpg)?raw=true)
+![alt text](https://drive.google.com/file/d/1P9Mgo1zeBjJmfMqtxiJezJTav-YfX0lO/view?usp=drive_link)?raw=true)
 
 ## Getting Started
 
